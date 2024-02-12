@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Fish {
+public class Fish {
+    public void swim(){
+        System.out.println("Swimming...");
+    }
 }

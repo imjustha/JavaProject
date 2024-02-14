@@ -6,7 +6,10 @@ public class Zoo {
         animal1.eat();
         animal1.sleep();
 
-        Bird bird1 = new Bird();
+        Bird bird1 = new Bird(24, "Female", 407.23, "Tiger", "Deer", 12));
         bird1.fly();
+        // now we can use eat and sleep methods from Animal class
+        bird1.eat();
+        bird1.sleep();
     }
 }

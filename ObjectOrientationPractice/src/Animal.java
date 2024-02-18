@@ -1,4 +1,4 @@
-public class Animal {
+public abstract class Animal {
     String gender;
     String type;
     String favFood;
@@ -31,5 +31,7 @@ public class Animal {
     public void sleep(){
         System.out.println("I am going to sleep and I usually sleep for about " + sleepTime);
     }
+
+    public abstract void move();
 
 }

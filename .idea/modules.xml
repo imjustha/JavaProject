@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectOrientation/ObjectOrientation.iml" filepath="$PROJECT_DIR$/ObjectOrientation/ObjectOrientation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectOrientationPractice/ObjectOrientationPractice.iml" filepath="$PROJECT_DIR$/ObjectOrientationPractice/ObjectOrientationPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prereq-practice/prereq-practice.iml" filepath="$PROJECT_DIR$/prereq-practice/prereq-practice.iml" />
     </modules>
   </component>
 </project>

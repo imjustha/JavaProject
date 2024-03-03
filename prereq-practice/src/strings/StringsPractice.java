@@ -1,4 +1,4 @@
-package practice.strings;
+package strings;
 
 public class StringsPractice {
     public static void main(String[] args) {
